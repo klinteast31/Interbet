@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#210033">
+<title>Interbet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500;600;700;800&family=Orbitron:wght@600;700&family=Rubik+Mono+One&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="app" id="app"><div id="root"></div></div>
+
+<nav class="nav" id="nav" aria-label="Navegação principal" hidden>
+  <div class="bar"></div>
+  <div class="items">
+    <button class="tab tap" data-go="home" id="tabFeed"></button>
+    <div class="mid">
+      <button class="fab tap" id="fab" aria-label="Abrir menu Interbet" aria-expanded="false"><img src="img/athlete.png" alt=""></button>
+      <div class="brand">inter<em>bet</em></div>
+    </div>
+    <button class="tab tap" data-go="evento" id="tabEvt"></button>
+  </div>
+</nav>
+<div class="scrim" id="scrim"></div>
+<div class="quick" id="quick" role="menu"></div>
+
+<div class="sheet-wrap" id="sheet" aria-hidden="true">
+  <div class="dim" data-close></div>
+  <div class="sheet" role="dialog" aria-modal="true">
+    <div class="grab"></div>
+    <button class="close tap" data-close aria-label="Fechar"></button>
+    <div id="sheetBody"></div>
+  </div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

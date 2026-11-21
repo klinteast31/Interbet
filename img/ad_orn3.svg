@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="107" height="107" viewBox="0 0 107 107" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ornament 2">
+<path d="M107 53.5C107 83.0472 83.0472 107 53.5 107C23.9528 107 0 83.0472 0 53.5C0 23.9528 23.9528 0 53.5 0C83.0472 0 107 23.9528 107 53.5Z" fill="#E16F3A"/>
+<mask id="stroke0_0_21" fill="white">
+<path d="M107 53.5C107 83.0472 83.0472 107 53.5 107C23.9528 107 0 83.0472 0 53.5C0 23.9528 23.9528 0 53.5 0C83.0472 0 107 23.9528 107 53.5Z"/>
+</mask>
+<path d="M107 53.5C107 83.0472 83.0472 107 53.5 107C23.9528 107 0 83.0472 0 53.5C0 23.9528 23.9528 0 53.5 0C83.0472 0 107 23.9528 107 53.5Z" stroke-width="60" stroke="#E16F3A" mask="url(#stroke0_0_21)"/>
+</g>
+</svg>

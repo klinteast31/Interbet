@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="72" height="24" viewBox="0 0 72 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Subtract" d="M72 0H12C5.37258 0 0 5.37258 0 12C0 18.6274 5.37258 24 12 24H72V0Z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#paint0_linear_0_5)"/>
+<defs>
+<linearGradient id="paint0_linear_0_5" x1="36" y1="0" x2="36" y2="24" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E16F3A"/>
+<stop offset="1" stop-color="#EA9840"/>
+</linearGradient>
+</defs>
+</svg>
